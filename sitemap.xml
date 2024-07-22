@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://axlescalada.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://axlescalada.github.io/blog/</loc>
+    </url>
+    <url>
+        <loc>https://axlescalada.github.io/blog/best-way-learn-programming-language/</loc>
+        <lastmod>2024-07-19</lastmod>
+    </url>
+    <url>
+        <loc>https://axlescalada.github.io/blog/zig-pointer/</loc>
+        <lastmod>2023-08-14</lastmod>
+    </url>
+</urlset>
